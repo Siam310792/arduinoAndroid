@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HumiditePlantes</string>
+    <string name="humiditelabel">Moisture :</string>
+    <string name="btclose">Close</string>
+    <string name="btmedium">Open Medium</string>
+    <string name="bthigh">Open High</string>
+    <string name="updatemoisture">Update</string>
+</resources>

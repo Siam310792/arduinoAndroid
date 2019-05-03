@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "190883315544",
+    "firebase_url": "https://humiditeplantes.firebaseio.com",
+    "project_id": "humiditeplantes",
+    "storage_bucket": "humiditeplantes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190883315544:android:a8197d684bcce163",
+        "android_client_info": {
+          "package_name": "lpiemam.com.humiditeplantes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190883315544-8h743nrkbfh6n6gjfojkn640eqco7i4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lpiemam.com.humiditeplantes",
+            "certificate_hash": "9a450d5577aca7f867b38386534db6e77ee812d1"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJZ9TiaHcegvBvsMywYU0Xe0wVd6ig5C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190883315544-g1s44h3ienncf5admh3n5h35miinnsd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
